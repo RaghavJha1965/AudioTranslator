@@ -20,17 +20,8 @@ This project provides a simple GUI tool to translate the transcripts of YouTube 
 2. Click the "Translate" button.
 3. The translated audio file will be generated and played automatically.
 
-**Requirements:**
-- Python 3.x
-- Dependencies: `youtube_transcript_api`, `deep_translator`, `gtts`, `tkinter`
-
-**Installation:**
-1. Clone this repository to your local machine.
-2. Install the required dependencies using pip:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Run the script `audioTranslation.py`.
+**Executable**
+- dist/audioTranslation.exe
 
 **Contributing:**
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
